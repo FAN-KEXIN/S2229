@@ -1,0 +1,11 @@
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\bin\Debug\FrmLogin.exe.config
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\bin\Debug\FrmLogin.exe
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\bin\Debug\FrmLogin.pdb
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\obj\Debug\FrmLogin.csprojResolveAssemblyReference.cache
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.Cache
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\obj\Debug\FrmLogin.exe
+c:\users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\obj\Debug\FrmLogin.frmMain.resources
+C:\Users\90930\documents\visual studio 2012\Projects\FrmLogin\FrmLogin\obj\Debug\FrmLogin.FrmRegist.resources
